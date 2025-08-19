@@ -4,7 +4,7 @@ This is the frontend application built with React, Vite, and Tailwind CSS for th
 
 ## 🚀 Features
 
-- **Modern React**: Built with React 18 and functional components
+- **Modern React**: Built with React and functional components
 - **Fast Development**: Vite for lightning-fast development and build times
 - **Styling**: Tailwind CSS for utility-first styling
 - **Routing**: React Router for client-side navigation
@@ -174,4 +174,4 @@ This project is configured for deployment on Vercel. The `vercel.json` file cont
 
 ## 📄 License
 
-This project is part of a MERN stack course management system.
+This project is part of a MERN Stack course management system.
